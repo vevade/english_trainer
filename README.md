@@ -4,4 +4,4 @@ Features:
 - random word selection
 - instant answer checking
 - endless practising mode
-  Over time, new words will be added.
+Over time, new words will be added.
