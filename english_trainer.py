@@ -15,6 +15,7 @@ words = {
 "banter": "шутка",
 "knock_it_off": "прекратить",
 "celestial": "небесный",
+"via": "через",
 
 
 }
