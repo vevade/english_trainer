@@ -11,7 +11,7 @@ words = {
 "intimidating": "пугающий",
 "malicious": "вредоносный",
 "overstimulated": "перегруженный",
-"drifting_apart": "уверять",
+"drifting_apart": "отдаляться",
 "banter": "шутка",
 "knock_it_off": "прекратить",
 "celestial": "небесный",
