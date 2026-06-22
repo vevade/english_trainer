@@ -15,9 +15,20 @@ words = {
 "banter": "шутка",
 "knock_it_off": "прекратить",
 "celestial": "небесный",
-"via": "через",
+"strive": "стремиться",
+"bestow_upon": "одарить",
+"mischievous": "шаловливый",
+"point_out": "показать",
+"catch_up": "узнать_новости",
+"hit_different": "ощущаться_иначе",
+"go-to": "лучший",    
+"low-key": "немного",
+"enervate": "изнурять",
+"spellbinding": "завораживающий",
+"vibrant": "яркий",
+"reciprocate": "отвечать_взаимно",
 
-
+    
 }
 
 while True:
