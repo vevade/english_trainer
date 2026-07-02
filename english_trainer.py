@@ -27,7 +27,19 @@ words = {
 "spellbinding": "завораживающий",
 "vibrant": "яркий",
 "reciprocate": "отвечать_взаимно",
-
+"jump_to_conclusions": "спешить_с_выводами",
+"on_and_off": "время_от_времени",
+"ballpark_figure": "приблизительная_цифра",
+"level_playing_field": "равные_условия",    
+"from_the_ground_up": "с_нуля",
+"talk_turkey": "перейти_к_делу",
+"beat_around_the_bush": "ходить_вокруг_да_около",
+"inner_turmoil": "внутреннее_напряжение", 
+"call_it_a_day": "закончить_на_сегодня",
+"nevertheless": "тем_не_менее",
+"whereas": "тогда_как",
+"ultimately": "в_итоге",    
+    
     
 }
 
